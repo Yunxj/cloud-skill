@@ -2,7 +2,7 @@
 
 帮小白把自己的业务场景一步步变成可用的 Skill。
 
-从空格丶 (zephyrwang6) 9 篇 AI Skill 方法论文章蒸馏而来，用大白话引导，6 步走完就能上手。
+用大白话引导，6 步走完就能上手。
 
 ## 安装
 
@@ -81,6 +81,4 @@ skill-distiller/
     └── learn-and-update.md          ← 学习新资料的处理流程
 ```
 
-## 致谢
 
-方法论来源于 [空格丶](https://github.com/zephyrwang6) 的 9 篇公众号文章。

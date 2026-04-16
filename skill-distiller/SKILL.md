@@ -2,7 +2,7 @@
 name: skill-distiller
 description: 帮你把自己的业务场景快速变成一个可用的 Skill。说"帮我做一个 Skill"就启动。
 version: 1.0.0
-author: distilled from 空格丶 (zephyrwang6) 9篇方法论文章
+author: Yunxj
 license: MIT
 metadata:
   hermes:
